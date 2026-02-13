@@ -1,26 +1,34 @@
 [
   {
-    "MusicBrainzId": "5fee3020-513b-48c2-b1f7-4681b01db0c6"
+    "ArtistName": "Bruce Springsteen"
+    "MusicBrainzId": "70248960-cb53-4ea4-943a-edb18f7d336f"
   },
   {
-    "MusicBrainzId": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
+    "ArtistName": "Counting Crows"
+    "MusicBrainzId": "a0327dc2-dc76-44d5-aec6-47cd2dff1469"
   },
   {
-    "MusicBrainzId": "95e1ead9-4d31-4808-a7ac-32c3614c116b"
+    "ArtistName": "Billy Joel"
+    "MusicBrainzId": "64b94289-9474-4d43-8c93-918ccc1920d1"
   },
   {
-    "MusicBrainzID": "0743b15a-3c32-48c8-ad58-cb325350befa"
+    "ArtistName": "Daniel Kahn"
+    "MusicBrainzID": "c2806dfd-e80f-47a3-a0f4-45d847883756"
   },
   {
-    "MusicBrainzID": "b76645c5-78b0-4e4c-8f95-003f40013a45"
+    "ArtistName": "HAIM"
+    "MusicBrainzID": "aef06569-098f-4218-a577-b413944d9493"
   },
   {
-    "MusicBrainzID": "b41b38d4-ef3e-4f37-8c75-cfe9af999696"
+    "ArtistName": "Arctic Monkeys"
+    "MusicBrainzID": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
   },
   {
-    "MusicBrainzID": "10e425aa-764f-486c-a9ff-2035296e8f40"
+    "ArtistName": "Green Day"
+    "MusicBrainzID": "084308bd-1654-436f-ba03-df6697104e19"
   },
   {
-    "MusicBrainzID": "e54be6b7-5c26-4b47-bb3f-c137429b9b55"
+    "ArtistName": "Miley Cyrus"
+    "MusicBrainzID": "7e9bd05a-117f-4cce-87bc-e011527a8b18"
   }
 ]
